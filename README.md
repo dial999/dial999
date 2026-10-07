@@ -5,9 +5,9 @@ I am a **Mechatronics** engineer focused on **firmware** development, motor cont
 ---
 
 ### ⚙️ What I Do...
-- 🎛️ **Firmware & Embedded Systems:** Programming in **C / C++** and **MicroPython** for microcontrollers (ESP32, STM32, Arduino, etc.).
-- 📡 **Sensors & Control:** Sensor integration (temperature, distance, vision, etc.), motor control (stepper, DC, servomotors), and communication protocols (SPI, I2C, UART, Modbus).
-- 🔄 **Automation & IoT:** Hardware integration with data pipelines and monitoring systems (Node-RED, MQTT, databases).
+- 🎛️ **Firmware & Embedded Systems:** Programming in **C** and **MicroPython** for microcontrollers (ESP32, Arduino, etc.).
+- 📡 **Sensors & Control:** Sensor integration (distance, IMU, etc.), motor control (stepper, DC, servomotors), and communication protocols (Modbus).
+- 🔄 **Automation & IoT:** Hardware integration with data pipelines and monitoring systems (Node-RED, InfluxDB).
 
 ---
 
